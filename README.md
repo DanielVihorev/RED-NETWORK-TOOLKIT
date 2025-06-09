@@ -166,3 +166,17 @@ Outline upcoming features:
 	•	More stealthy packet options
 	•	JSON or HTML output support
 	•	Integration with Nessus, ZAP, or Splunk
+
+ ⸻
+
+👥 Authors • Daniel Vihorev • Ilay Zendani (Security Consultant)
+
+(Wild Life Cyber Security)
+
+⸻
+
+📜 License
+
+All rights reserved to Daniel Vihorev and Ilay Zendani (Wild Life Cyber Security). For educational or private use only. Commercial usage prohibited without written permission.
+
+⸻
